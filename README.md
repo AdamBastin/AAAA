@@ -5,11 +5,11 @@ This script is a UI tool for common tasks I have come across working as a networ
 
 Here are the tools included:
 1. [Unlock User](#unlock-user)
-2. Create New User
-3. Copy Groups
-4. Folder Permissions
-5. User Migration
-6. [Remote Map Drive]()
+2. [Create New User](#create-new-user)
+3. [Copy Groups](#copy-groups)
+4. [Folder Permissions](#folder-permissions)
+5. [User Migration](#user-migration)
+6. [Remote Map Drive](#remote-map-drive)
 7. [LAPS Password](#laps-password)
 ## Unlock User
 ![image](https://github.com/AdamBastin/AAAA/assets/73455686/96b9d282-62cb-484d-b158-5461c5bf5c7c)
